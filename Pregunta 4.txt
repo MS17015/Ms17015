@@ -1,0 +1,7 @@
+C reserva una cantidad de Bytes segun el tipo de dato:
+Char   1 Bytes
+int    4 Bytes
+long   8 Bytes
+float  4 Bytes
+double 8 Bytes
+void   es nulo
